@@ -1,7 +1,7 @@
 
  - 💪🏻 I started to learn web-programming when I was thirteen. So, I have been coding already for three years.
  - 🎓 I am studying in the Moscow School Programming.
- - Besides basic activities I am fond of learning C++, Python, Golang and Linux
+ - Besides basic activities I am fond of learning C++, Python, Java, Golang, Linux and Android Mobile Development
  
  ### My basic skills:
 
