@@ -1,6 +1,6 @@
 
- - 💪🏻 I started to learn web-programming when I was thirteen. So, I have been coding already for three years.
- - 🎓 I am studying in the Moscow School Programming.
+ - 💪🏻 I started to learn programming when I was thirteen. So, I have been coding already for four years.
+ - 🎓 I studied at the Moscow School Programming.
  - Besides basic activities I am fond of learning C++, Python, Java, Linux and Android Mobile Development
  
  ### My basic skills:
