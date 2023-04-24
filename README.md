@@ -1,6 +1,7 @@
 
  - 💪🏻 I started to learn programming when I was thirteen. So, I have been coding already for four years.
- - 🎓 I studied at the Moscow School Programming.
+ - 🎓 I studied in the Moscow School Programming.
+ - 🎓 I study in IT-SAMSUNG.
  - Besides basic activities I am fond of learning C++, Python, Java, Linux and Android Mobile Development
  
  ### My basic skills:
