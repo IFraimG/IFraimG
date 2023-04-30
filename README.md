@@ -14,4 +14,5 @@
 ![alt-текст](https://camo.githubusercontent.com/b8f9baf34dfa59e5cf63be744777f8f01596535a4bcc1502df3cf39a71d41c23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3333333333333f7374796c653d666c6174266c6f676f3d7265616374)
 ![alt-текст](https://camo.githubusercontent.com/08413b23131d86fc9390a427491f7dff29124c48b1743cc517eb8049058bdc67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3333333333333f7374796c653d666c6174266c6f676f3d7265647578)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFraimG&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFraimG&show_icons=true&theme=dark)       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IFraimG)](https://github.com/anuraghazra/github-readme-stats)
