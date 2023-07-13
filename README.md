@@ -3,6 +3,7 @@
  - 🎓 I studied in the Moscow School Programming.
  - 🎓 I study in IT-SAMSUNG.
  - Besides basic activities I am fond of learning C++, Python, Java, Linux and Android Mobile Development
+ - [I worked on a project for X5 Group](https://drive.google.com/file/d/1gC1cbkjail4BAPMH2PRQm0n477JcFZVj/view?usp=sharing)
  
  ### My basic skills:
 
