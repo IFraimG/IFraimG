@@ -2,7 +2,7 @@
  - 💪🏻 I started to learn programming when I was thirteen. So, I have been coding already for four years.
  - 🎓 I studied in the Moscow School Programming.
  - 🎓 I studied at IT-SAMSUNG school and took second place in the final.
- - I am fond of learning C++, Python, Java, Android Mobile Development, JavaScript (TypeScript, Vue.js, React.js, Node.js), Golang, Linux and Kotlin
+ - I am fond of learning C++, Python, Java, Android Mobile Development, JavaScript (TypeScript, Vue.js, React.js, Node.js), Golang, Figma, WordPress, Linux and Kotlin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFraimG&show_icons=true&theme=dark)    
 
