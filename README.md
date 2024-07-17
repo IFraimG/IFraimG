@@ -1,8 +1,11 @@
+  🎓 Frontend Development -> JavaScript -> (TypeScript, Vue.js, React.js), Figma, WordPress, SCSS;
+ 
+ 🎓 Mobile Development -> Java -> LibGDX, Kotlin, Swift, KMM;
+ 
+ 🎓 Backend Development -> Node.js -> (Express.js, Nest.js), Golang;
+ 
+ 🎓 OS, ML, Computer Science... -> C++, Python, Linux, Raspberry pi;
 
- - 💪🏻 I started to learn programming when I was thirteen. So, I've been programming occasionally for 5 years.
- - 🎓 I studied in the Moscow School Programming.
- - 🎓 I studied at IT-SAMSUNG school and took second place in the final.
- - I am fond of learning C++, Python, Java, Android Mobile Development, JavaScript (TypeScript, Vue.js, React.js, Node.js), Golang, Figma, WordPress, Linux and Kotlin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFraimG&show_icons=true&theme=dark)    
 
