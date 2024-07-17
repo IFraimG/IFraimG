@@ -1,11 +1,12 @@
-  🎓 Frontend Development -> JavaScript -> (TypeScript, Vue.js, React.js), Figma, WordPress, SCSS;
+  🎓 Frontend Development -> JavaScript -> (TypeScript, Vue.js, React.js), WordPress, SCSS;
  
  🎓 Mobile Development -> Java -> LibGDX, Kotlin, Swift, KMM;
  
- 🎓 Backend Development -> Node.js -> (Express.js, Nest.js), Golang;
+ 🎓 Backend Development -> Node.js -> (Express.js, Nest.js), MongoDB, MySQL/PostgreSQL/SQLite, Firebase, Moleculer.io, Websocket;
  
  🎓 OS, ML, Computer Science... -> C++, Python, Linux, Raspberry pi;
-
+ 
+ 🎓 Design -> Figma, Avocode, Photoshop;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFraimG&show_icons=true&theme=dark)    
 
