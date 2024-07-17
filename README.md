@@ -1,6 +1,6 @@
   🎓 Frontend Development -> JavaScript -> (TypeScript, Vue.js, React.js), WordPress, SCSS;
  
- 🎓 Mobile Development -> Java -> LibGDX, Kotlin, Swift -> SwiftUI, KMM;
+ 🎓 Mobile Development -> Java -> (LibGDX, RXjava), Kotlin, Swift -> SwiftUI, KMM;
  
  🎓 Backend Development -> Node.js -> (Express.js, Nest.js), MongoDB, MySQL/PostgreSQL/SQLite, Firebase, Moleculer.io, Websocket;
  
