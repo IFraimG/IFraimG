@@ -1,10 +1,10 @@
-  🎓 Frontend Development -> JavaScript -> (TypeScript, Vue.js, React.js), WordPress, SCSS;
+  🎓 Frontend Development -> JavaScript -> (TypeScript, Vue.js, React.js), SCSS;
  
- 🎓 Mobile Development -> Java -> (LibGDX, RXjava), Kotlin, Swift -> SwiftUI, KMM;
+ 🎓 Mobile Development -> Java -> (LibGDX, RXjava), Kotlin, Swift -> SwiftUI;
  
  🎓 Backend Development -> Node.js -> (Express.js, Nest.js), MongoDB, MySQL/PostgreSQL/SQLite, Firebase, Moleculer.io, Websocket;
  
- 🎓 OS, ML, Computer Science... -> C++, Python, Linux, Raspberry pi;
+ 🎓 OS, Computer Science... -> C++, Python, Linux;
  
  🎓 Design -> Figma, Avocode, Photoshop;
 
