@@ -1,12 +1,8 @@
-  🎓 Frontend Development -> JavaScript -> (TypeScript, Vue.js, React.js), SCSS;
+  🎓 Frontend Development -> JavaScript -> (TypeScript, Vue.js, React.js);
  
- 🎓 Mobile Development -> Java -> (LibGDX, RXjava), Kotlin, Swift -> SwiftUI;
- 
- 🎓 Backend Development -> Node.js -> (Express.js, Nest.js), MongoDB, MySQL/PostgreSQL/SQLite, Firebase, Moleculer.io, Websocket;
- 
- 🎓 OS, Computer Science... -> C++, Python, Linux;
- 
- 🎓 Design -> Figma, Avocode, Photoshop;
+ 🎓 Mobile Development -> Java, Kotlin, Swift (SwiftUI);
+
+ 🎓 Backend Development -> Node.js -> Express.js, MongoDB, Firebase, Moleculer.io, Websocket;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFraimG&show_icons=true&theme=dark)    
 
