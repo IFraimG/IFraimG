@@ -1,4 +1,4 @@
-  🎓 Frontend Development -> JavaScript (TypeScript, Vue, React); Additionally - Node.js, MongoDB, Firebase, WS.
+  🎓 Frontend Development -> JavaScript (TypeScript, Vue, React); Additionally - Node.js, MongoDB, Firebase
 
 🎓 Mobile Development -> Java, Kotlin, Swift (SwiftUI);
 
