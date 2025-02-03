@@ -1,8 +1,6 @@
-  🎓 Frontend Development -> JavaScript -> (TypeScript, Vue.js, React.js);
- 
- 🎓 Mobile Development -> Java, Kotlin, Swift (SwiftUI);
+  🎓 Frontend Development -> JavaScript (TypeScript, Vue, React); Additionally - Node.js, MongoDB, Firebase, WS.
 
- 🎓 Backend Development -> Node.js -> Express.js, MongoDB, Firebase, Moleculer.io, Websocket;
+🎓 Mobile Development -> Java, Kotlin, Swift (SwiftUI);
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFraimG&show_icons=true&theme=dark)    
 
